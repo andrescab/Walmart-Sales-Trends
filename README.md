@@ -12,17 +12,17 @@ The Analysis of Walmart Commerce Data provides comprenhensive information on sal
 Daily sales fluctuate over this period, with totals ranging from as low as around 1,623.69 to as high as 4,487.06 on specific days. This indicates variability in daily sales volume which could be influenced by factors such as day of the week, promotions, or holidays.
 
 ### Sales by Product Line
-![a2]("\images\Sales_by_product_line.png")
-![a5]("\images\Total_Sales_Product_Line_each_Branch.png")
+![images/Sales_by_product_line.png](https://github.com/andrescab/Walmart-Sales-Trends/blob/main/images/Sales_by_product_line.png)
+![images/Total_Sales_Product_Line_each_Branch.png](https://github.com/andrescab/Walmart-Sales-Trends/blob/main/images/Total_Sales_Product_Line_each_Branch.png)
 Food and Beverages, followed by Sports and Travel, are the top-selling product lines, indicating a higher customer preference or demand in these categories.
 
 ### Sales Distribution by Branch
-![a3]("\images\Sales_Distribution_by_Branch.png")
+[![a3](https://github.com/andrescab/Walmart-Sales-Trends/blob/main/images/Sales_Distribution_by_Branch.png)
 Females contributed to a higher total sales amount compared to males, suggesting that females might be the dominant shopping demographic in this dataset or have a higher purchasing power for the products offered.
 
 ### Total Sales by Product Line for Each Gender
-![a4]("\images\Total_Sales_Gender.png")
-![a6]("\images\Total_Sales_Product_Line_Gender.png")
+![a4](https://github.com/andrescab/Walmart-Sales-Trends/blob/main/images/Total_Sales_Gender.png)
+![a6](https://github.com/andrescab/Walmart-Sales-Trends/blob/main/images/Total_Sales_Product_Line_Gender.png)
 The data reveals varied preferences between genders across different product lines. Notably, males spent more on Health and Beauty, while females spent more on Fashion Accessories, Food and Beverages, and Home and Lifestyle.
 
 ## Conclusion
